@@ -1,0 +1,915 @@
+1:strncat:0x400037e8
+	(0.7663:32c7a1af66353a286db56356b078019c.sub_400037E8)
+1:sscanf:0x400013ec
+	(0.9469:15d806713e5e97d239423e93728033bc.sub_400013EC)
+1:strnlen:0x40001444
+	(0.7916:b502b1c12f0956b6a0d7021ed39cfabf.sub_40001444)
+1:sscanf:0x400013ec
+1:strnlen:0x40001444
+1:atoi:0x0
+1:checksum:0x0
+1:csum:0x0
+1:memcmp:0x0
+1:memcpy:0x0
+1:memmove:0x0
+1:recvfrom:0x0
+1:sendto:0x0
+1:recv:0x0
+1:send:0x0
+1:snprintf:0x0
+1:sprintf:0x0
+1:strcat:0x0
+1:strcmp:0x0
+1:strcpy:0x0
+1:strncat:0x0
+1:strncmp:0x0
+1:strncpy:0x0
+1:strtol:0x0
+1:getenv:0x0
+1:strchr:0x0
+1:strlen:0x0
+1:strrchr:0x0
+1:strtoul:0x0
+1:memset:0x0
+5:snprintf:0x8000077c
+	(0.8209:5568ed45f9b7d1c78ac6f814a3d459f8.sub_8000077C)
+5:strcat:0x8000c300
+	(0.7886:4c5ff7c8a9d7cb0979b7f413933f325e.sub_8000C300)
+5:getenv:0x80007160
+	(0.7530:3a9396f25b38d4828d658767f8903599.sub_80007160)
+5:strtol:0x80017804
+	(1.0000:2d156ed8bcee2b8d2312f165626c4300.sub_80017804)
+5:strrchr:0x800176c8
+	(0.7542:792c5b4231f48cf545fdc0ff7d424c69.sub_800176C8)
+5:strnlen:0x80019210
+	(0.7579:a934e6e4aec6d35edaac81e093d4b749.sub_80019210)
+5:sprintf:0x80001f10
+	(0.8553:59cc4c91812e1546c8340d8c27da1972.sub_80001F10)
+5:strtoul:0x80017914
+	(1.0000:8a02114f3314b53178fc313cc32d51d1.sub_80017914)
+5:sscanf:0x80016b38
+	(0.8232:8a311c1975052fe69e9f39690fdc65e7.sub_80016B38)
+5:strtol:0x80017804
+5:strtoul:0x80017914
+5:atoi:0x0
+5:checksum:0x0
+5:csum:0x0
+5:memcmp:0x0
+5:memcpy:0x0
+5:memmove:0x0
+5:recvfrom:0x0
+5:sendto:0x0
+5:recv:0x0
+5:send:0x0
+5:snprintf:0x0
+5:sprintf:0x0
+5:sscanf:0x0
+5:strcat:0x0
+5:strcmp:0x0
+5:strcpy:0x0
+5:strncat:0x0
+5:strncmp:0x0
+5:strncpy:0x0
+5:getenv:0x0
+5:strchr:0x0
+5:strlen:0x0
+5:strnlen:0x0
+5:strrchr:0x0
+5:memset:0x0
+6:strncmp:0x80203d58
+	(0.7558:27cbf18202ad63bc2f8b1fe3f87d51aa.sub_80203D58)
+6:strtoul:0x80204b48
+	(0.7902:b38fb1e77a2d282089676ca339f8cb06.sub_80204B48)
+6:strncmp:0x80203d58
+6:strtoul:0x80204b48
+6:atoi:0x0
+6:checksum:0x0
+6:csum:0x0
+6:memcmp:0x0
+6:memcpy:0x0
+6:memmove:0x0
+6:recvfrom:0x0
+6:sendto:0x0
+6:recv:0x0
+6:send:0x0
+6:snprintf:0x0
+6:sprintf:0x0
+6:sscanf:0x0
+6:strcat:0x0
+6:strcmp:0x0
+6:strcpy:0x0
+6:strncat:0x0
+6:strncpy:0x0
+6:strtol:0x0
+6:getenv:0x0
+6:strchr:0x0
+6:strlen:0x0
+6:strnlen:0x0
+6:strrchr:0x0
+6:memset:0x0
+7:recv:0x63fa
+	(0.9038:a7aea0bba0cbb08a6df55cf0f25b52e3.sub_63FA)
+7:sprintf:0x5cf8
+	(0.9177:96371a4387ae157dcda23a6f8d95078f.sub_5CF8)
+7:sscanf:0x1748
+	(0.9401:db372accf68ae3ed8a3f2f3b7a035334.sub_1748)
+7:recv:0x63fa
+7:sprintf:0x5cf8
+7:sscanf:0x1748
+7:atoi:0x0
+7:checksum:0x0
+7:csum:0x0
+7:memcmp:0x0
+7:memcpy:0x0
+7:memmove:0x0
+7:recvfrom:0x0
+7:sendto:0x0
+7:send:0x0
+7:snprintf:0x0
+7:strcat:0x0
+7:strcmp:0x0
+7:strcpy:0x0
+7:strncat:0x0
+7:strncmp:0x0
+7:strncpy:0x0
+7:strtol:0x0
+7:getenv:0x0
+7:strchr:0x0
+7:strlen:0x0
+7:strnlen:0x0
+7:strrchr:0x0
+7:strtoul:0x0
+7:memset:0x0
+9:snprintf:0x4008923c
+	(0.7811:55e4a844388d6090c0f2ddb4708cf192.sub_4008923C)
+9:strtol:0x400870c0
+	(0.9603:159cbb48a855aadc55e6ab9743431a4d.sub_400870C0)
+9:memmove:0x4008ff68
+	(0.7745:6d7cd5682d853e264d1b0c8763720741.sub_4008FF68)
+9:strtoul:0x400d1d8c
+	(0.8973:21a4aa7cecded74b82ed891c1b2a1f31.sub_400D1D8C)
+9:strchr:0x400d3114
+	(0.7892:50189b96450ea522cd2bde817d1abb43.sub_400D3114)
+9:strncmp:0x40081ec4
+	(0.7556:7b4967b667d8096576759cbe1349631b.sub_40081EC4)
+9:strrchr:0x40085db0
+	(0.7660:fc8286958fcc60c9eb922cac4805b6f6.sub_40085DB0)
+9:memcpy:0x4008fe70
+	(1.0000:d7ebad0113120977b4308f9834b72c80.sub_4008FE70)
+9:memset:0x40090048
+	(0.9835:779a149b674ff70dcf6738945308ca74.sub_40090048)
+9:sprintf:0x4008917c
+	(0.8766:d0117e1e9f083034643d3493a674d46d.sub_4008917C)
+9:strlen:0x4008a18c
+	(1.0000:5d7e754ebbebe6339b4bc0d394e36296.sub_4008A18C)
+9:getenv:0x400d1d54
+	(0.8469:5f49e41a7a565bf3474e44560550447b.sub_400D1D54)
+9:sscanf:0x400d0688
+	(0.8530:b0a8dfb331eda01bdeb30fdc57f5b407.sub_400D0688)
+9:strtol:0x400870c0
+9:memcpy:0x4008fe70
+9:memset:0x40090048
+9:strlen:0x4008a18c
+9:atoi:0x0
+9:checksum:0x0
+9:csum:0x0
+9:memcmp:0x0
+9:memmove:0x0
+9:recvfrom:0x0
+9:sendto:0x0
+9:recv:0x0
+9:send:0x0
+9:snprintf:0x0
+9:sprintf:0x0
+9:sscanf:0x0
+9:strcat:0x0
+9:strcmp:0x0
+9:strcpy:0x0
+9:strncat:0x0
+9:strncmp:0x0
+9:strncpy:0x0
+9:getenv:0x0
+9:strchr:0x0
+9:strnlen:0x0
+9:strrchr:0x0
+9:strtoul:0x0
+8:strtol:0x203624
+	(0.8267:8100fc478d46c407a07d5627acace553.sub_203624)
+8:strncpy:0x20477c
+	(0.8103:7aa3fd4e8646540298fdd004f60fad68.sub_20477C)
+8:strtoul:0x204c78
+	(0.7878:65bcf6a50dad0ac8727675b426f302af.sub_204C78)
+8:strcat:0x20b734
+	(0.7865:4739e9691119c13938defd51bf8bbb39.sub_20B734)
+8:snprintf:0x204a5c
+	(0.9339:4d83b662f16f3fe7934193d193326fa2.sub_204A5C)
+8:strcpy:0x2082bc
+	(0.7931:c3a202067a3a9be86b863d1b9b6ba419.sub_2082BC)
+8:strrchr:0x20ae6e
+	(0.7636:e5522b87b4714a435ce74d65bb17a5f3.sub_20AE6E)
+8:sprintf:0x20b824
+	(0.9477:4ce178354c0b2659a0a0be5868518250.sub_20B824)
+8:recv:0x20ae92
+	(0.8718:1706f048f296ffb829824fc9189bf608.sub_20AE92)
+8:strncat:0x20b50e
+	(0.8848:6036f82a5f0481d83e9ed55db0716183.sub_20B50E)
+8:getenv:0x20614c
+	(0.7522:84ef902967a7a017895e4e49262e10af.sub_20614C)
+8:snprintf:0x204a5c
+8:sprintf:0x20b824
+8:memset:0x20ace0
+8:memmove:0x20abe8
+8:memcpy:0x20aafc
+8:strlen:0x20ad84
+8:atoi:0x0
+8:checksum:0x0
+8:csum:0x0
+8:memcmp:0x0
+8:recvfrom:0x0
+8:sendto:0x0
+8:recv:0x0
+8:send:0x0
+8:sscanf:0x0
+8:strcat:0x0
+8:strcmp:0x0
+8:strcpy:0x0
+8:strncat:0x0
+8:strncmp:0x0
+8:strncpy:0x0
+8:strtol:0x0
+8:getenv:0x0
+8:strchr:0x0
+8:strnlen:0x0
+8:strrchr:0x0
+8:strtoul:0x0
+3:strchr:0x4bc00
+	(1.0000:b98eac1b4f7ecce64249db174f8e2b4f.sub_4BC00)
+3:recv:0x52994
+	(1.0000:5e4c917fb2eec177c9579e7d7f1433d9.sub_52994)
+3:send:0x4f690
+	(0.9276:b827e8dd877268e93268b6a83ab4036c.sub_4F690)
+3:strlen:0x4ba90
+	(0.9812:cd9b9d5d33e6404d1799dcaffa9fafb0.strlen_1)
+3:strcmp:0x4ba70
+	(1.0000:387dbc3ae92b51e42f087fe392ce16e2.sub_4BA70)
+3:strcpy:0x4bcf0
+	(1.0000:57aa17badc67cffc6860cb959db069d4.sub_4BCF0)
+3:memcpy:0x5bf00
+	(0.9911:2a567d55b9431d054094ab43bc6014a2._memcpy)
+3:sendto:0x45a60
+	(0.9703:ccf6cb2fe51b8dfabe3d5ec42cc7f81d.sub_45A60)
+3:snprintf:0x5ad20
+	(1.0000:e7ef7b2ff8a3fa689b44704ed34ff9af.dprintf_1)
+3:strtoul:0x5204c
+	(0.8095:18258b9828316f3f738d7569ea93ae49.sub_5204C)
+3:strtol:0x4d988
+	(0.8562:3ee99bae894cf3cb19e147ba0a797941.sub_4D988)
+3:sprintf:0x49650
+	(1.0000:4ced1ee681598a1790550307d4d6fa8f.PerlIO_sprintf)
+3:strncmp:0x4bd48
+	(1.0000:1710738e05f26996a78393e8114f9ab9.sub_4BD48)
+3:recvfrom:0x4f904
+	(1.0000:163d5df91b60fdeccd2084e2055e43b5.sub_4F904)
+3:strncpy:0x4be44
+	(1.0000:708b2de1012b9b99bfd736234ddc0063.sub_4BE44)
+3:strchr:0x4bc00
+3:recv:0x52994
+3:send:0x4f690
+3:strlen:0x4ba90
+3:strcmp:0x4ba70
+3:strcpy:0x4bcf0
+3:memcpy:0x5bf00
+3:sendto:0x45a60
+3:snprintf:0x5ad20
+3:sprintf:0x49650
+3:strncmp:0x4bd48
+3:recvfrom:0x4f904
+3:strncpy:0x4be44
+3:memcmp:0x4b980
+3:getenv:0x50fe4
+3:strrchr:0x4c014
+3:strnlen:0x4bf3c
+3:memset:0x4b9d0
+3:strcat:0x5c474
+3:atoi:0x0
+3:checksum:0x0
+3:csum:0x0
+3:memmove:0x0
+3:sscanf:0x0
+3:strncat:0x0
+3:strtol:0x0
+3:strtoul:0x0
+11:atoi:0x25bd0
+	(0.7807:3d31d7393e3e414d5c0463a832efa0d3.sub_25BD0)
+11:recv:0x205e8
+	(0.9038:9b0893175db50dc381494f8e9a64bc01.sub_205E8)
+11:sscanf:0x1fa34
+	(0.9177:01a6538bf9a5faa203907cfea3de40dc.sub_1FA34)
+11:strcat:0x257b0
+	(0.7586:60d6f0781ddff91a240937822dfc6e71.sub_257B0)
+11:strrchr:0x2690e
+	(0.7616:c1c0db7791fada549ed40525009e7b52.sub_2690E)
+11:strcpy:0x2c03a
+	(0.7799:12d8bdf17e0036f5d4d9c3dea45ac79f.sub_2C03A)
+11:strtoul:0x10e8c
+	(0.8467:3f8bac3cc63ceb9372a50cb77c3ad05c.sub_10E8C)
+11:strncat:0x1de1c
+	(0.7929:bf5a32174e4036dfa0a0556d4a087d26.sub_1DE1C)
+11:strcmp:0x206bc
+	(0.7680:bddda8ee0f58e575b313d917501456ff.sub_206BC)
+11:recv:0x205e8
+11:sscanf:0x1fa34
+11:atoi:0x0
+11:checksum:0x0
+11:csum:0x0
+11:memcmp:0x0
+11:memcpy:0x0
+11:memmove:0x0
+11:recvfrom:0x0
+11:sendto:0x0
+11:send:0x0
+11:snprintf:0x0
+11:sprintf:0x0
+11:strcat:0x0
+11:strcmp:0x0
+11:strcpy:0x0
+11:strncat:0x0
+11:strncmp:0x0
+11:strncpy:0x0
+11:strtol:0x0
+11:getenv:0x0
+11:strchr:0x0
+11:strlen:0x0
+11:strnlen:0x0
+11:strrchr:0x0
+11:strtoul:0x0
+11:memset:0x0
+14:strnlen:0xe1315688
+	(0.9068:dc18e275f1580c0b4962bb4789268f9e.sub_E1315688)
+14:strcpy:0xe131d630
+	(0.9200:1d9a7200b35ba60f84950c47c633f6c5.sub_E131D630)
+14:getenv:0xe131566c
+	(0.7900:3246cb2bf9237666c88a4d2eaaf369f9.sub_E131566C)
+14:strtoul:0xe13187cc
+	(0.8488:5a703b19e754097b5f254cd69d2bdc3b.sub_E13187CC)
+14:strcat:0xe131406c
+	(0.7935:22b9c32e533286838ac3195f5c5addc0.sub_E131406C)
+14:strncpy:0xe13161d8
+	(0.7931:1f489b22ec23848680cd20308dfc043c.sub_E13161D8)
+14:strnlen:0xe1315688
+14:strcpy:0xe131d630
+14:atoi:0x0
+14:checksum:0x0
+14:csum:0x0
+14:memcmp:0x0
+14:memcpy:0x0
+14:memmove:0x0
+14:recvfrom:0x0
+14:sendto:0x0
+14:recv:0x0
+14:send:0x0
+14:snprintf:0x0
+14:sprintf:0x0
+14:sscanf:0x0
+14:strcat:0x0
+14:strcmp:0x0
+14:strncat:0x0
+14:strncmp:0x0
+14:strncpy:0x0
+14:strtol:0x0
+14:getenv:0x0
+14:strchr:0x0
+14:strlen:0x0
+14:strrchr:0x0
+14:strtoul:0x0
+14:memset:0x0
+15:strchr:0x107f9f8
+	(0.8517:0fc7262b64e9582390f746c4c228b74f.sub_107F9F8)
+15:strncpy:0x1015b08
+	(0.9617:aed42c828b5996b615a78ff755aeab15.sub_1015B08)
+15:strcpy:0x10160b8
+	(0.9617:f305ed01c362632da31a7801a3874b95.sub_10160B8)
+15:getenv:0x1053e98
+	(0.7948:e6abf89800520c0c613cdf0a77138f77.sub_1053E98)
+15:send:0x1080778
+	(0.9248:6d57a4b2970a9230a47c0521adb73820.sub_1080778)
+15:sscanf:0x1016430
+	(0.9583:2fba3fdd140669ef95b1045a0cf08125.sub_1016430)
+15:strncat:0x1006ef0
+	(0.7525:2d4b67e4b52a3e5bb42c5df7935cf2be.sub_1006EF0)
+15:recvfrom:0x109f860
+	(0.9273:7f7b069e11ce6a7b163361a8fbb7a757.sub_109F860)
+15:strrchr:0x1007820
+	(0.8692:fcdcf581dc9fa149d0913eb96286c92f.sub_1007820)
+15:sendto:0x10a2080
+	(0.9276:6ab6aff4749a85929281d5385b7f3554.sub_10A2080)
+15:memmove:0x102aee8
+	(0.7542:5189ddf82323b9a69933526c70dbd072.sub_102AEE8)
+15:recv:0x100f350
+	(0.9194:69fa094d61c3c6f4ef937f6f247fd7a4.sub_100F350)
+15:strnlen:0x1037e40
+	(0.9032:24f643d63defc949967af3f827b95d9a.sub_1037E40)
+15:strcat:0x104b138
+	(0.8515:0b5d5973345128538da77edf4dd89d7c.sub_104B138)
+15:strncpy:0x1015b08
+15:strcpy:0x10160b8
+15:send:0x1080778
+15:sscanf:0x1016430
+15:recvfrom:0x109f860
+15:sendto:0x10a2080
+15:recv:0x100f350
+15:strnlen:0x1037e40
+15:atoi:0x0
+15:checksum:0x0
+15:csum:0x0
+15:memcmp:0x0
+15:memcpy:0x0
+15:memmove:0x0
+15:snprintf:0x0
+15:sprintf:0x0
+15:strcat:0x0
+15:strcmp:0x0
+15:strncat:0x0
+15:strncmp:0x0
+15:strtol:0x0
+15:getenv:0x0
+15:strchr:0x0
+15:strlen:0x0
+15:strrchr:0x0
+15:strtoul:0x0
+15:memset:0x0
+16:atoi:0x420100e4
+	(0.7504:efcc54e7e90f690b77b6d9c95ca26979.sub_420100E4)
+16:sprintf:0x42011d68
+	(0.8741:192a1a6d871aaf2ddc6ce30bf8075d7c.sub_42011D68)
+16:strncpy:0x42012168
+	(0.7994:42f0ffba1040a943d4563021fe555d63.sub_42012168)
+16:strlen:0x4038281c
+	(0.7745:ff0c287317b8a545c9c60d3f40c1f2f0.sub_4038281C)
+16:strnlen:0x403827f8
+	(0.7824:6ecb26626aaeff658d9900ea1cb96ca8.sub_403827F8)
+16:snprintf:0x42012114
+	(0.8333:10d31e90e5fcfc067bf92e4f9def5a5d.sub_42012114)
+16:strcat:0x40381958
+	(0.7618:d04c43023c0cdeb9114680f4aab281ea.sub_40381958)
+16:strcpy:0x42012148
+	(0.7994:d0fd25e6c6a2865332ccee910c0fd1e7.sub_42012148)
+16:sprintf:0x42011d68
+16:snprintf:0x42012114
+16:atoi:0x0
+16:checksum:0x0
+16:csum:0x0
+16:memcmp:0x0
+16:memcpy:0x0
+16:memmove:0x0
+16:recvfrom:0x0
+16:sendto:0x0
+16:recv:0x0
+16:send:0x0
+16:sscanf:0x0
+16:strcat:0x0
+16:strcmp:0x0
+16:strcpy:0x0
+16:strncat:0x0
+16:strncmp:0x0
+16:strncpy:0x0
+16:strtol:0x0
+16:getenv:0x0
+16:strchr:0x0
+16:strlen:0x0
+16:strnlen:0x0
+16:strrchr:0x0
+16:strtoul:0x0
+16:memset:0x0
+13:strcat:0x80012d0
+	(0.7885:3d961ea7d5f16c1155ec7f4fd51a8a9c.sub_80012D0)
+13:strtoul:0x800a518
+	(0.7913:1a0aee6d5cfc5853641486071dbf58e1.sub_800A518)
+13:strcat:0x80012d0
+13:strtoul:0x800a518
+13:atoi:0x0
+13:checksum:0x0
+13:csum:0x0
+13:memcmp:0x0
+13:memcpy:0x0
+13:memmove:0x0
+13:recvfrom:0x0
+13:sendto:0x0
+13:recv:0x0
+13:send:0x0
+13:snprintf:0x0
+13:sprintf:0x0
+13:sscanf:0x0
+13:strcmp:0x0
+13:strcpy:0x0
+13:strncat:0x0
+13:strncmp:0x0
+13:strncpy:0x0
+13:strtol:0x0
+13:getenv:0x0
+13:strchr:0x0
+13:strlen:0x0
+13:strnlen:0x0
+13:strrchr:0x0
+13:memset:0x0
+18:getenv:0x800cc88
+	(0.8800:9dab2be60897459da4ae71b3925001fd.sub_800CC88)
+18:strcmp:0x8004020
+	(0.8231:a4a7f2a176ef2dd9d5fdcd4ccb25f0b7.sub_8004020)
+18:strncpy:0x8002178
+	(0.7931:b4ad0e8b31717c8a37473b96a3120747.sub_8002178)
+18:strtol:0x800e778
+	(0.8506:5ca8d03ddb383b2c2594d6b913e1e8ba.sub_800E778)
+18:strchr:0x8001020
+	(0.8162:c3835abdfc59ca852c12597cbaf6f48c.sub_8001020)
+18:recv:0x800a130
+	(0.8132:4f6ebd2f014fac6ef7170b8463ae38f5.sub_800A130)
+18:strcpy:0x8004036
+	(0.9078:447a6b4240c9cec096b9180e23699406.sub_8004036)
+18:snprintf:0x800d8f8
+	(0.9477:d74d7fd6e092572abec5f53d277073e2.sub_800D8F8)
+18:sprintf:0x800d53a
+	(0.9477:d140038c9c85b2210767eee72f20eacb.sub_800D53A)
+18:strnlen:0x800d256
+	(0.8719:7587fbc3aabb4c670de43912e8934b23.sub_800D256)
+18:strlen:0x800407e
+	(0.8089:0087e0a1ed63f88d5fa362ff4cac13eb.sub_800407E)
+18:strtoul:0x8004158
+	(0.8736:d6076af9de7a7e88f550464bdde13b1a.sub_8004158)
+18:strcpy:0x8004036
+18:snprintf:0x800d8f8
+18:sprintf:0x800d53a
+18:atoi:0x0
+18:checksum:0x0
+18:csum:0x0
+18:memcmp:0x0
+18:memcpy:0x0
+18:memmove:0x0
+18:recvfrom:0x0
+18:sendto:0x0
+18:recv:0x0
+18:send:0x0
+18:sscanf:0x0
+18:strcat:0x0
+18:strcmp:0x0
+18:strncat:0x0
+18:strncmp:0x0
+18:strncpy:0x0
+18:strtol:0x0
+18:getenv:0x0
+18:strchr:0x0
+18:strlen:0x0
+18:strnlen:0x0
+18:strrchr:0x0
+18:strtoul:0x0
+18:memset:0x0
+19:strcat:0x4000c4ac
+	(0.8054:322fd754188512ae3c1e9c97194a9ef9.sub_4000C4AC)
+19:strcmp:0x40006c5c
+	(0.9544:8a3f957eccd41b4fb80cba03c25f5853.sub_40006C5C)
+19:sscanf:0x400042cc
+	(0.9652:6b4ed6d51059c47a6b64db1247a47384.sub_400042CC)
+19:getenv:0x4000e3a8
+	(0.9133:c80753992cc8cdf48abca22b96b90521.sub_4000E3A8)
+19:strchr:0x4000926c
+	(0.9178:4297f04dbf427d5d93f02ccc9670562d.sub_4000926C)
+19:strtol:0x40002e70
+	(0.7826:4701a297e52b3ca17ab0144c7b8bf754.sub_40002E70)
+19:strnlen:0x40001c80
+	(0.7577:e6a8eeea32e1f8169c81737397a0921f.sub_40001C80)
+19:strcmp:0x40006c5c
+19:sscanf:0x400042cc
+19:getenv:0x4000e3a8
+19:strchr:0x4000926c
+19:atoi:0x0
+19:checksum:0x0
+19:csum:0x0
+19:memcmp:0x0
+19:memcpy:0x0
+19:memmove:0x0
+19:recvfrom:0x0
+19:sendto:0x0
+19:recv:0x0
+19:send:0x0
+19:snprintf:0x0
+19:sprintf:0x0
+19:strcat:0x0
+19:strcpy:0x0
+19:strncat:0x0
+19:strncmp:0x0
+19:strncpy:0x0
+19:strtol:0x0
+19:strlen:0x0
+19:strnlen:0x0
+19:strrchr:0x0
+19:strtoul:0x0
+19:memset:0x0
+17:strncmp:0x1ad6c
+	(0.9646:630e18372cae8a72ee8f45ebb5542b61.sub_1AD6C)
+17:strcat:0x1a994
+	(0.9494:ec28c446b58e2737618a24af53d5a555.sub_1A994)
+17:sscanf:0x17fdc
+	(1.0000:d7c1b2192fa8694f6041529f243fc616.sprintf_0_3)
+17:strtoul:0x1a0b4
+	(1.0000:fe40a441e6f4d0f98051e239cc35ec22.sub_1A0B4)
+17:strrchr:0x1ae58
+	(0.9633:b9314f336f1b1be06d717306d4090790.sub_1AE58)
+17:strtol:0x1a0ec
+	(1.0000:33a5a6fac11258239fdab5a9b6cd1193.sub_1A0EC)
+17:strncpy:0x1aaec
+	(1.0000:fcabb7fecd0093fa162a1d6be5e4bb8d.sub_1AAEC)
+17:memmove:0x1a53c
+	(0.9582:8b041aae749920b928727b52265063c4.sub_1A53C)
+17:snprintf:0x13364
+	(1.0000:b77b1d49f97eeb877d6723d7e55c6286.sprintf_0)
+17:atoi:0x19e8c
+	(0.9984:cd62f18406b4c10b90773cac1c34dc21.sub_19E8C)
+17:send:0x214cc
+	(0.7756:08612640e68b26669cae8db8dec470c2.sub_214CC)
+17:strcpy:0x1adfc
+	(1.0000:fcdf5e87104a7000e3071497a121d45e.sub_1ADFC)
+17:recv:0x161f0
+	(1.0000:1232bfa22f6f5a34cc0c18037eb6d51a.sub_161F0)
+17:memset:0x1a7f4
+	(0.9475:e9b4fa18ece6212b63359fde5508a5e9.sub_1A7F4)
+17:memcmp:0x1a4f8
+	(0.9861:fc3a4008a63682be01cf4dbe8e13caea.sub_1A4F8)
+17:strnlen:0x1ae10
+	(0.9767:f69900fac3398bef2681f53218e02705.sub_1AE10)
+17:strlen:0x1ac18
+	(0.9917:e06a5825ad3174a8788c6dfd85f91cda.sub_1AC18)
+17:strchr:0x1a9c0
+	(0.9729:e84e92730a9e87534bd30de0c28247fe.sub_1A9C0)
+17:getenv:0x10914
+	(0.9982:bf6950221b9f6578a659f9c6996473d4.sub_10914)
+17:strncmp:0x1ad6c
+17:strcat:0x1a994
+17:sscanf:0x17fdc
+17:strtoul:0x1a0b4
+17:strrchr:0x1ae58
+17:strtol:0x1a0ec
+17:strncpy:0x1aaec
+17:memmove:0x1a53c
+17:snprintf:0x13364
+17:atoi:0x19e8c
+17:strcpy:0x1adfc
+17:recv:0x161f0
+17:memset:0x1a7f4
+17:memcmp:0x1a4f8
+17:strnlen:0x1ae10
+17:strlen:0x1ac18
+17:strchr:0x1a9c0
+17:getenv:0x10914
+17:sendto:0x1620c
+17:strcmp:0x1aab8
+17:recvfrom:0x21bd8
+17:memcpy:0x1a110
+17:checksum:0x0
+17:csum:0x0
+17:send:0x0
+17:sprintf:0x0
+17:strncat:0x0
+2:strcat:0x1005c2c0
+	(0.9274:e3a0fd04c86e624a728dc97ef4220eda.sub_1005C2C0)
+2:memmove:0x100aa980
+	(0.9126:7776c001abe0231345df085e7cf32355.sub_100AA980)
+2:send:0x1004ab88
+	(0.7620:742e215cfbce65d1af231912e25567f8.sub_1004AB88)
+2:recv:0x1009c5b8
+	(0.9713:ee6c49e4984b223d636f05e198011906.getline_0)
+2:getenv:0x10016ab8
+	(0.8636:72f9c98c1f231b4f42010c6d35ec9092.sub_10016AB8)
+2:atoi:0x100d8850
+	(0.9298:211c388e6620aed303e2104fea3f72da.sub_100D8850)
+2:strnlen:0x100427c8
+	(0.9373:1651ebb7ac8dbbbf859827a51708be9b.sub_100427C8)
+2:sprintf:0x100a1a68
+	(1.0000:05aa007559316c3be531e55cf2004752.sub_100A1A68)
+2:recvfrom:0x100a7d28
+	(0.8383:c4236de4da7e3cfc3d2ac9df85b5750e.sub_100A7D28)
+2:sendto:0x10083908
+	(0.8679:5d66149332d751bf3f46cd50a56d97ab.sub_10083908)
+2:strrchr:0x1003d3c8
+	(0.9773:944cd825d90ec00a2f12652b31a3a7f6.sub_1003D3C8)
+2:memcmp:0x1003af60
+	(0.8796:5f2fbe00418c15711a742fa14634ef5c.sub_1003AF60)
+2:snprintf:0x10023558
+	(1.0000:475f3509101edee4f056679600c19b78.sub_10023558)
+2:memset:0x100aa690
+	(0.8974:2fb166fec233791694f7a083e7c04a10.sub_100AA690)
+2:strtol:0x1000c500
+	(0.8333:27202b5f3d5f05f5e1a97ccebc44acb1.sub_1000C500)
+2:strncpy:0x10044368
+	(0.8383:da72c5215e9f22d2964aa4fc6faf0e21.sub_10044368)
+2:strcpy:0x10041cf8
+	(0.9241:e910030c7e0694338fa8a7f8f71ef315.sub_10041CF8)
+2:strcat:0x1005c2c0
+2:memmove:0x100aa980
+2:recv:0x1009c5b8
+2:atoi:0x100d8850
+2:strnlen:0x100427c8
+2:sprintf:0x100a1a68
+2:strrchr:0x1003d3c8
+2:snprintf:0x10023558
+2:strcpy:0x10041cf8
+2:memcpy:0x1003b100
+2:strchr:0x1003cd60
+2:strlen:0x1003c028
+2:strncmp:0x1003cba0
+2:strcmp:0x1003ecf0
+2:checksum:0x0
+2:csum:0x0
+2:memcmp:0x0
+2:recvfrom:0x0
+2:sendto:0x0
+2:send:0x0
+2:sscanf:0x0
+2:strncat:0x0
+2:strncpy:0x0
+2:strtol:0x0
+2:getenv:0x0
+2:strtoul:0x0
+2:memset:0x0
+12:strcat:0x22a138
+	(0.8178:9e805ea9b3abf6182a03a84b667a99cc.sub_22A138)
+12:strncat:0x20f040
+	(0.8264:28a4a48586bd8cce70c7ef0617bcfd80.sub_20F040)
+12:strtoul:0xc0ab06c
+	(0.8388:bcd82b75588ddaf455fe06ed1535103a.sub_C0AB06C)
+12:strtol:0xc067e9c
+	(0.8597:05096f38d699d8cb04753cb8b0672735.sub_C067E9C)
+12:strnlen:0x215c8c
+	(0.8167:c0d0891530db3c06e1bfaa22a31eb943.sub_215C8C)
+12:strchr:0xc0d9168
+	(0.8358:de077666045f880bb6d14aea009967e7.sub_C0D9168)
+12:strncpy:0xc06d630
+	(0.8506:3711ab5ad698c17c8a97bf97d91146dc.sub_C06D630)
+12:recv:0x222ef2
+	(0.7969:ca7ea8b3ebc5efb52f017061c0027ef1.sub_222EF2)
+12:send:0xc07237c
+	(0.8141:32a9fee38ff92d111036a83f2110c038.sub_C07237C)
+12:strrchr:0xc073140
+	(0.7666:4fc82188acae64630426e0cf2199c8dd.sub_C073140)
+12:memmove:0x3ea000
+	(0.7678:c4f6e6ea7700a16a5b223d9b3c6ae47f.sub_3EA000)
+12:sprintf:0xc066e84
+	(0.9177:c536147bbf059d665c0ab599bfd5d4f3.sub_C066E84)
+12:snprintf:0xc067f5a
+	(0.9177:8f4016cb420388a48bdb5bb9d9a43264.sub_C067F5A)
+12:sprintf:0xc066e84
+12:snprintf:0xc067f5a
+12:strcpy:0xc0e543c
+12:memcpy:0x2001a8
+12:strcmp:0xc0e5280
+12:strlen:0xc0e58e0
+12:atoi:0x0
+12:checksum:0x0
+12:csum:0x0
+12:memcmp:0x0
+12:memmove:0x0
+12:recvfrom:0x0
+12:sendto:0x0
+12:recv:0x0
+12:send:0x0
+12:sscanf:0x0
+12:strcat:0x0
+12:strncat:0x0
+12:strncmp:0x0
+12:strncpy:0x0
+12:strtol:0x0
+12:getenv:0x0
+12:strchr:0x0
+12:strnlen:0x0
+12:strrchr:0x0
+12:strtoul:0x0
+12:memset:0x0
+10:sendto:0x4e3910
+	(0.9343:71c43bc081adbb5c30c1bacfad6686fb.sub_4E3910)
+10:strcpy:0x4581b0
+	(0.9934:58d9bdd309e9bffe8f1682cb5abed0c0.__strcpy_sse2)
+10:strlen:0x457b00
+	(0.9989:fda2f006c0b0398982304a4e242e757e.__strlen_sse2)
+10:strncmp:0x432f40
+	(0.8965:cf9f8656cdec03ec6da1c6228ce39215.sub_432F40)
+10:sscanf:0x418d70
+	(0.8926:00b04e3e2b196b2c10b6bcece82cfaa2.sub_418D70)
+10:atoi:0x4ee600
+	(0.7988:bf60998c80b8c34e85f6871069f048a5.bio_cleanup)
+10:memmove:0x432f90
+	(0.8063:4ee5d6875e1d41fe399eaf6922969710.sub_432F90)
+10:send:0x4bc740
+	(0.9343:24a9cf35cc7dbea80e731770ce3fd5d2.sub_4BC740)
+10:recvfrom:0x4e6160
+	(0.9343:96c9d3a488bc1558beb20756779a4bf0.sub_4E6160)
+10:snprintf:0x49fcb0
+	(0.8978:377528f1d765d0e257f93c6b7258b33f.sub_49FCB0)
+10:memcmp:0x43ae00
+	(0.9437:803f094669c358cc3283737d8e59f82f.__memcmp_sse2)
+10:strchr:0x4dbf30
+	(0.7913:3dfab3dd91b49ba2f641e2a31af3abe1.sub_4DBF30)
+10:strnlen:0x4b22f0
+	(0.9977:2e9bf138bf181c7a959ba025e56ff418.__strnlen_sse2)
+10:strrchr:0x457630
+	(0.9991:6ba55ae91af3c3f30b4c7cee499d06b6.__strrchr_sse2)
+10:sendto:0x4e3910
+10:strcpy:0x4581b0
+10:strlen:0x457b00
+10:send:0x4bc740
+10:recvfrom:0x4e6160
+10:memcmp:0x43ae00
+10:strnlen:0x4b22f0
+10:strrchr:0x457630
+10:sprintf:0x4d6d20
+10:getenv:0x417760
+10:atoi:0x0
+10:checksum:0x0
+10:csum:0x0
+10:memcpy:0x0
+10:memmove:0x0
+10:recv:0x0
+10:snprintf:0x0
+10:sscanf:0x0
+10:strcat:0x0
+10:strcmp:0x0
+10:strncat:0x0
+10:strncmp:0x0
+10:strncpy:0x0
+10:strtol:0x0
+10:strchr:0x0
+10:strtoul:0x0
+10:memset:0x0
+4:strcat:0x1c804
+	(0.8922:5a2cc54cb1a9ca9dd8cb9b2fa850a3bf.sub_1C804)
+4:recv:0x400ac
+	(0.9887:183819168cede842c8fa096b02c2f7f9.sub_400AC)
+4:atoi:0x2034a
+	(0.9540:fe470e4c30849543d975b7d8db59a5ab.sub_2034A)
+4:getenv:0x20772
+	(0.9922:88630f979044ddc92f6802ad3cf668d4.sub_20772)
+4:memset:0x38116
+	(1.0000:c4ac19acd2e622291b76a87df473eb3c.sub_38116)
+4:recvfrom:0x76206
+	(0.9922:4c3a202a9c46d7237546661b844825de.sub_76206)
+4:sendto:0x77e76
+	(0.9922:c79a94718d2831e80059ec81101d58f2.sub_77E76)
+4:sscanf:0x10e9a
+	(0.8851:3db1595b12fc8be0393330db599af992.sub_10E9A)
+4:strncat:0x1c6cc
+	(0.7639:223403c91426f577c4f1135363a5181c.sub_1C6CC)
+4:strncpy:0x64662
+	(1.0000:f408cc39518adfce414bb4b3c874c132.sub_64662)
+4:strncmp:0x3752a
+	(0.9521:8a2183c292972ade8170dbedafc9aac3.sub_3752A)
+4:strcpy:0x371e4
+	(1.0000:1e9d502081f714ec1e06dc629683f8d0.sub_371E4)
+4:send:0x40010
+	(1.0000:86f39f66935006a757acd0d68b9b105c.sub_40010)
+4:strrchr:0x375bc
+	(0.9894:9acf1e096aa1e1afd65717fa398ed79e.sub_375BC)
+4:memmove:0x37ff2
+	(1.0000:0ed72ab4369f8404c6f3d8043224e388.sub_37FF2)
+4:strnlen:0x37460
+	(0.9969:1004d54ba65fdf312cdf33e9d9857740.sub_37460)
+4:strcmp:0x371c6
+	(0.9567:8f19408e8c5f4a91a12a539f4a3daa7c.sub_371C6)
+4:memcmp:0x37cac
+	(0.9230:6cb5946f82324f3489b90d6b7d9dc676.sub_37CAC)
+4:strlen:0x373b6
+	(1.0000:9330fe7f529c5d604aff55e2b8a4eac1.sub_373B6)
+4:strchr:0x370f2
+	(0.9995:e1c197db46c3e816e43e09ff6ba054cf.sub_370F2)
+4:strtol:0x20b82
+	(0.7727:0154348c7bfa453d54d19de015b74860.sub_20B82)
+4:sprintf:0x213ec
+	(0.9797:9abed343f338edceee19f43d6584b766.sub_213EC)
+4:memcpy:0x38222
+	(1.0000:114a9903b1e1b43a4c6ea51b323238a5.sub_38222)
+4:snprintf:0x1c448
+	(0.8768:4e9704d86546ab202880ebfdb58a4570.sub_1C448)
+4:recv:0x400ac
+4:atoi:0x2034a
+4:getenv:0x20772
+4:memset:0x38116
+4:recvfrom:0x76206
+4:sendto:0x77e76
+4:strncpy:0x64662
+4:strncmp:0x3752a
+4:strcpy:0x371e4
+4:send:0x40010
+4:strrchr:0x375bc
+4:memmove:0x37ff2
+4:strnlen:0x37460
+4:strcmp:0x371c6
+4:memcmp:0x37cac
+4:strlen:0x373b6
+4:strchr:0x370f2
+4:sprintf:0x213ec
+4:memcpy:0x38222
+4:checksum:0x0
+4:csum:0x0
+4:snprintf:0x0
+4:sscanf:0x0
+4:strcat:0x0
+4:strncat:0x0
+4:strtol:0x0
+4:strtoul:0x0

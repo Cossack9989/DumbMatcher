@@ -1,0 +1,8 @@
+{
+  "ida_64": "<your ida pro 64 path>",
+  "ida": "<your ida pro path>",
+  "CaaS": "<your caas service uri>",
+  "CaaS-PWD": "<your caas password>",
+  "POOL_SIZE": 8,
+  "DIR_TO_BE_SCANNED": "<your dir to be scanned>"
+}

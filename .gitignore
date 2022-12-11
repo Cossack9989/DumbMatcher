@@ -1,0 +1,14 @@
+.idea
+__pycache__
+python
+
+BinDB
+BinRaw
+rawdata
+
+ida*.log
+*.txt
+*.local.json
+*.DS_Store
+
+downloader.py
